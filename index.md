@@ -36,7 +36,7 @@ There are two application forms for the workshop, one for students and other for
    
 2. **Industry professional application**
    Interested industry professional must submit their applications via the provided
-   [online form](https://forms.gle/J44fUFnEaVYfying8) bu **5:00 pm on 31st May 2026**.
+   [online form](https://forms.gle/J44fUFnEaVYfying8) by **5:00 pm on 31st May 2026**.
    Only candidates who complete this submission will be considered for the workshop.
    
 Selected candidates will receive notification of their acceptance into the
