@@ -1,6 +1,6 @@
 # Workshop on Video Analytics Systems
 
-[Welcome](#about) | [Registration](#registration)  | [Logistics](#logistics) | [Schedule](#schedule) 
+[Welcome](#about) | [Guest Speakers](#guests) | [Registration](#registration)  | [Logistics](#logistics) | [Schedule](#schedule) 
 
 
 
@@ -21,6 +21,9 @@ actually work in practice.
 This workshop focuses on that systems perspective. Through a day of talks from leading researchers 
 and industry experts, a hands-on session with our research prototype, and a panel discussion on 
 open problems, participants will get a close look at where the field stands today and where it's headed.
+
+## Guest Speakers<a name="guests"></a>
+Coming soon
 
 ## Registration <a name="registration"></a>
 Applications are open to third- and fourth-year undergraduate students, master’s students,
