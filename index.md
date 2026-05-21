@@ -6,8 +6,7 @@
 
 
 ## Welcome<a name="about"></a>
-The **Workshop on Video Analytics Systems**, organized by the Data Systems Group
-of the [Department of Computer Science and
+The **Workshop on Video Analytics Systems**, organized by the [Department of Computer Science and
 Engineering](https://www.cse.iitd.ac.in/) at IIT Delhi, will bring together students,
 researchers, and industry practitioners working on video analytics, will be held on June 12, 2026.
 
