@@ -11,15 +11,14 @@ Engineering](https://www.cse.iitd.ac.in/) at IIT Delhi, will bring together stud
 researchers, and industry practitioners working on video analytics, will be held on June 12, 2026.
 
 Video has become one of the dominant data types of our time, generated continuously by cameras in cities, 
-vehicles, retail spaces, factories, and homes. While much of the attention in this space has gone to the 
-computer vision models that interpret video, building the systems that run these models efficiently at 
-scale is an equally hard, and often more interesting, problem. Questions of storage, query processing, 
-GPU scheduling, edge-cloud trade-offs, latency, and cost sit at the heart of making video analytics 
-actually work in practice.
+vehicles, retail spaces, factories, and homes. Building the systems that can process, query, and analyze 
+this video efficiently at scale is one of the more interesting open problems in systems research today. 
+Questions of storage, query processing, GPU scheduling, edge-cloud trade-offs, latency, and cost sit at 
+the heart of making video analytics actually work in practice.
 
-This workshop focuses on that systems perspective. Through a day of talks from leading researchers 
-and industry experts, a hands-on session with our research prototype, and a panel discussion on 
-open problems, participants will get a close look at where the field stands today and where it's headed.
+Through a day of talks from leading researchers and industry experts, a hands-on session with our 
+research prototype, and a panel discussion on open problems, participants will get a close look 
+at where the field stands today and where it's headed.
 
 ## Guest Speakers<a name="guests"></a>
 Coming soon
