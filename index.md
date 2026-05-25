@@ -44,7 +44,7 @@ Selected candidates will receive notification of their acceptance into the
 workshop by **June 6, 2026**.
 
 ## Logistics<a name="logistics"></a>
-- **Venue**: Room 511, Bharti building, Department of Computer Science and Engineering, IIT Delhi.
+- **Venue**: Room 501, Bharti building, Department of Computer Science and Engineering, IIT Delhi.
 - **Date**: June 13, 2026
 - **After workshop**: Student participants who attend the workshop will receive a **Certificate of Participation**.
 - **Clarification**: We won't be able to provide travel cost and accommodation, so please plan accordingly. 
