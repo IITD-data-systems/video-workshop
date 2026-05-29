@@ -54,7 +54,7 @@ workshop by **June 6, 2026**.
 * 10:30 am – 11:30 am: Talk from IIT Delhi
 * 11:30 am – 12:30 pm: Talk
 * 12:30 pm – 02:00 pm: Lunch
-* 02:00 pm – 03:00 pm: Talk
+* 02:00 pm – 03:00 pm: Talk by Prof. Arani Bhattacharya
 * 03:00 pm – 03:30 pm: Panel discussion
 * 03:30 pm – 04:00 pm: High tea
 * 04:00 pm – 06:00 pm: Hands-on interaction with the IIT Delhi research prototype
