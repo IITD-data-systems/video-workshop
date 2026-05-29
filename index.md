@@ -20,8 +20,6 @@ Through a day of talks from leading researchers and industry experts, a hands-on
 research prototype, and a panel discussion on open problems, participants will get a close look 
 at where the field stands today and where it's headed.
 
-## Guest Speakers<a name="guests"></a>
-Coming soon
 
 ## Registration <a name="registration"></a>
 Applications are open to third- and fourth-year undergraduate students, master’s students,
