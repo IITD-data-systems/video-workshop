@@ -1,6 +1,6 @@
 # Workshop on Video Analytics Systems
 
-[Welcome](#about) | [Guest Speakers](#guests) | [Registration](#registration)  | [Logistics](#logistics) | [Schedule](#schedule) 
+[Welcome](#about) | [Registration](#registration)  | [Logistics](#logistics) | [Schedule](#schedule) | [Speakers](#speakers)
 
 
 
@@ -60,3 +60,29 @@ workshop by **June 6, 2026**.
 * 03:00 pm – 03:30 pm: Panel discussion
 * 03:30 pm – 04:00 pm: High tea
 * 04:00 pm – 06:00 pm: Hands-on interaction with the IIT Delhi research prototype
+
+## Speakers <a name="speakers"></a>
+
+1. **Arani Bhattacharya**   
+   **Title**:- Tiles: Exploiting a Hidden Codec Feature for Better Video Streaming.
+
+   **Abstract**:- The HEVC standard introduced a largely overlooked technique of video encoding called tiles. 
+   Tiles are spatial rectangular blocks within a temporal video segment that are independently encoded. 
+   The key motivation for introducing tiles was to enable parallel encoding and decoding, 
+   which had become increasingly essential to handle high-resolution videos. 
+   However, the research community found other uses of tiled encoding across different video streaming applications. 
+   In this talk, I discuss my work on using tiled streaming to optimize multiple applications. 
+   The first application is live streaming of education-related videos, where we show that better quality adjustments 
+   are possible by distinguishing between tiles that contain background and foreground content. 
+   The second application is to filter irrelevant portions of traffic surveillance videos from static roadside 
+   cameras without pixel-level processing. The third application is streaming of 360-degree videos on demand 
+   while adjusting the content based on viewers head movement. This talk will conclude with a discussion of 
+   the future of tiled encoding in newer standards like neural codecs, AV1 and AV2.
+   
+   **Bio**:-  Arani Bhattacharya is an Assistant Professor at Indraprastha Institute of Information Technology Delhi. 
+   His research interests are in wireless networks, edge computing, and multimedia applications. 
+   He is interested in designing prototypes of connected network systems that adapt to wireless networks, 
+   often while still providing some guarantees on quality of service. He completed his PhD from Stony Brook 
+   University in 2019. He regularly serves on the program committees of multiple conferences like ACM IMC, 
+   ACM SenSys, ACM MMSys and IEEE ICDCS, and is currently serving as the Associate Editor of IEEE 
+   Transactions on Mobile Computing.
