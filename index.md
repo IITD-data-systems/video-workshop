@@ -29,17 +29,17 @@ There are two application forms for the workshop, one for students and the other
 
 1. **Student application**  
    Interested students must submit their applications via the provided [online
-   form](https://forms.gle/8m5xmv3UqLUCBDyXA) by **5:00 pm on May 31, 2026**. 
+   form](https://forms.gle/8m5xmv3UqLUCBDyXA) by ~~5:00 pm on May 31, 2026~~ **11:59 pm on June 6, 2026**. 
    Only candidates who complete this submission will be considered for
    the workshop.
    
 2. **Industry professional application**
    Interested industry professional must submit their applications via the provided
-   [online form](https://forms.gle/J44fUFnEaVYfying8) by **5:00 pm on May 31, 2026**.
+   [online form](https://forms.gle/J44fUFnEaVYfying8) by ~~5:00 pm on May 31, 2026~~ **11:59 pm on June 6, 2026**.
    Only candidates who complete this submission will be considered for the workshop.
    
 Selected candidates will receive notification of their acceptance into the
-workshop by **June 6, 2026**.
+workshop by ~~June 6, 2026~~ **June 8, 2026**.
 
 ## Logistics<a name="logistics"></a>
 - **Venue**: Room 501, Bharti building, Department of Computer Science and Engineering, IIT Delhi.
