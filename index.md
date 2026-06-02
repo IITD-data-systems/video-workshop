@@ -45,14 +45,14 @@ workshop by **June 6, 2026**.
 - **Venue**: Room 501, Bharti building, Department of Computer Science and Engineering, IIT Delhi.
 - **Date**: June 13, 2026
 - **After workshop**: Student participants who attend the workshop will receive a **Certificate of Participation**.
-- **Clarification**: We won't be able to provide travel cost and accommodation, so please plan accordingly. 
+- **Clarification**: We won't be able to provide travel cost and accommodation, so please plan accordingly. Students are requested to bring their laptop for the hands-on demonstation.
 
 ## Schedule for the day <a name="schedule"></a>
 * 08:30 am – 09:15 am: Coffee
 * 09:15 am – 09:30 am: Welcoming remarks
-* 09:30 am – 10:30 am: Keynote
+* 09:30 am – 10:30 am: Keynote by Dr. Shikha Gupta
 * 10:30 am – 11:30 am: Talk from IIT Delhi
-* 11:30 am – 12:30 pm: Talk
+* 11:30 am – 12:30 pm: Talk by Dr. Sibendu Paul
 * 12:30 pm – 02:00 pm: Lunch
 * 02:00 pm – 03:00 pm: Talk by Prof. Arani Bhattacharya
 * 03:00 pm – 03:30 pm: Panel discussion
@@ -61,7 +61,24 @@ workshop by **June 6, 2026**.
 
 ## Speakers <a name="speakers"></a>
 
-1. **Arani Bhattacharya**   
+1. **Dr. Shikha Gupta**
+
+   **Title**:- Reimagining Surveillance: The Role of AI and Computer Vision in Public Safety
+
+   **Abstract**:- The increasing deployment of cameras across cities, highways, and critical infrastructure has created new opportunities to enhance public safety through intelligent video analytics. Advances in AI and computer vision are transforming surveillance systems from passive recording tools into proactive systems capable of automated scene understanding, real-time event detection, and actionable decision support.  This talk will provide an overview of modern AI-driven surveillance systems, covering key technologies such as object detection, person and vehicle analytics, anomaly detection, action recognition, and behavior analysis. It will discuss practical challenges in developing and deploying these systems at scale, including varying environmental conditions, camera viewpoints, computational constraints, and real-world performance evaluation. Drawing from industrial deployment experiences, the talk will highlight how computer vision is being leveraged to improve situational awareness and support public safety applications in smart city environments. 
+
+   **Bio**:- Shikha Gupta is a Senior Research Scientist at Vehant Technologies, where she works on AI-driven video analytics solutions for intelligent surveillance and public safety. She received her Ph.D. from the Indian Institute of Technology Mandi in 2020, specializing in machine learning and computer vision. Prior to joining Vehant, she worked at Samsung Research Institute and TCS Research Lab. Her research has been published in reputed journals and conferences, and she holds a patent in AI and computer vision. She currently leads AI-based video analytics deployments for smart city and highway projects, including the Dwarka Tunnel, MSRDC, Guwahati Safe City, and Pune Safe City projects. She also played a key role in deploying AI-powered crowd management solutions at the Maha Kumbh, supporting large-scale public safety operations.
+
+2. **Dr. Sibendu Paul**
+
+   **Title**:- Perception Aware Adapting Sensing for Intelligent Video Analytics Systems.
+
+   **Abstract**:- Modern video analytics systems rely on large-scale camera deployments to support applications such as intelligent transportation, public safety, smart cities, and enterprise surveillance. However, the accuracy of downstream analytics models is often limited not by the models themselves, but by the quality and relevance of the visual data captured by cameras operating under dynamic environmental conditions. In this talk, I present a research agenda centered on adaptive video analytics pipelines that continuously improve the quality and utility of visual data for downstream analytics. The presentation covers AQuA, an analytics-aware quality assessment framework; CamTuner, a reinforcement learning-based camera parameter optimization system; Elixir, a multi-analytics camera adaptation framework; and WideEye, a PTZ control system that dynamically adjusts camera orientation and zoom to balance coverage and analytics performance. Collectively, these works demonstrate how intelligent sensing and adaptive control can substantially improve video analytics accuracy, resource efficiency, and operational robustness in real-world deployments.
+
+   **Bio**:- Sibendu Paul is an Applied Scientist at the Amazon Prime Video team. He earned his M.S. and Ph.D. in Electrical and Computer Engineering from Purdue University in 2022, where he was awarded the prestigious Bilsland Dissertation Fellowship. Prior to that, he completed his undergraduate studies at Jadavpur University, India, in 2017, graduating with First Class Honours and receiving the University Gold Medal for securing the highest percentage in his department. His research lies at the intersection of machine learning and systems, with interests spanning multimodal video understanding, large-scale video analytics, AR/VR systems, 360-degree video streaming, and edge computing.
+
+2. **Prof. Arani Bhattacharya**
+
    **Title**:- Tiles: Exploiting a Hidden Codec Feature for Better Video Streaming.
 
    **Abstract**:- The HEVC standard introduced a largely overlooked technique of video encoding called tiles. 
