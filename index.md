@@ -50,7 +50,7 @@ workshop by ~~June 6, 2026~~ **June 8, 2026**.
 ## Schedule for the day <a name="schedule"></a>
 * 08:30 am – 09:15 am: Coffee
 * 09:15 am – 09:30 am: Welcoming remarks
-* 09:30 am – 10:30 am: Keynote by Dr. Shikha Gupta
+* 09:30 am – 10:30 am: Talk by Dr. Shikha Gupta
 * 10:30 am – 11:30 am: Talk from IIT Delhi
 * 11:30 am – 12:30 pm: Talk by Dr. Sibendu Paul
 * 12:30 pm – 02:00 pm: Lunch
