@@ -48,6 +48,7 @@ workshop by ~~June 6, 2026~~ **June 8, 2026**.
 - **Clarification**: We won't be able to provide travel cost and accommodation, so please plan accordingly. Students are requested to bring their laptop for the hands-on demonstation.
 
 ## Schedule for the day <a name="schedule"></a>
+
 |       Time          |              Event                 |
 |:-------------------:|:-----------------------------------|
 | 08:30 am – 09:15 am | Coffee                             |
