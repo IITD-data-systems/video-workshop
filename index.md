@@ -57,7 +57,8 @@ workshop by ~~June 6, 2026~~ **June 8, 2026**.
 * 02:00 pm – 03:00 pm: Talk by Prof. Arani Bhattacharya
 * 03:00 pm – 03:30 pm: Panel discussion
 * 03:30 pm – 04:00 pm: High tea
-* 04:00 pm – 06:00 pm: Hands-on interaction with the IIT Delhi research prototype
+* 04:00 pm – 05:00 pm: Hands-on session with TrQS
+* 05:00 pm - 06:00 pm: Hands-on session on video encoding and tiles
 
 ## Speakers <a name="speakers"></a>
 
