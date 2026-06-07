@@ -48,17 +48,19 @@ workshop by ~~June 6, 2026~~ **June 8, 2026**.
 - **Clarification**: We won't be able to provide travel cost and accommodation, so please plan accordingly. Students are requested to bring their laptop for the hands-on demonstation.
 
 ## Schedule for the day <a name="schedule"></a>
-* 08:30 am – 09:15 am: Coffee
-* 09:15 am – 09:30 am: Welcoming remarks
-* 09:30 am – 10:30 am: Talk by Dr. Shikha Gupta
-* 10:30 am – 11:30 am: Talk from IIT Delhi
-* 11:30 am – 12:30 pm: Talk by Dr. Sibendu Paul
-* 12:30 pm – 02:00 pm: Lunch
-* 02:00 pm – 03:00 pm: Talk by Prof. Arani Bhattacharya
-* 03:00 pm – 03:30 pm: Panel discussion
-* 03:30 pm – 04:00 pm: High tea
-* 04:00 pm – 05:00 pm: Hands-on session with TrQS
-* 05:00 pm - 06:00 pm: Hands-on session on video encoding and tiles
+|                     |                                    |
+|:-------------------:|:-----------------------------------|
+| 08:30 am – 09:15 am | Coffee                             |
+| 09:15 am – 09:30 am | Welcoming remarks                  |
+| 09:30 am – 10:30 am | Talk by Dr. Shikha Gupta           |
+| 10:30 am – 11:30 am | Talk from IIT Delhi                |
+| 11:30 am – 12:30 pm | Talk by Dr. Sibendu Paul           |
+| 12:30 pm – 02:00 pm | Lunch                              |
+| 02:00 pm – 03:00 pm | Talk by Prof. Arani Bhattacharya   |
+| 03:00 pm – 03:30 pm | Panel discussion                   |
+| 03:30 pm – 04:00 pm | High tea                           |
+| 04:00 pm – 05:00 pm | Hands-on session with TrQS         |
+| 05:00 pm - 06:00 pm | Hands-on session on video encoding and tiles |
 
 ## Speakers <a name="speakers"></a>
 
