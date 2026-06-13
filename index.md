@@ -58,10 +58,10 @@ workshop by ~~June 6, 2026~~ **June 8, 2026**.
 | 11:30 am – 12:30 pm | Talk by Dr. Sibendu Paul           |
 | 12:30 pm – 02:00 pm | Lunch                              |
 | 02:00 pm – 03:00 pm | Talk by Prof. Arani Bhattacharya   |
-| 03:00 pm – 04:00 pm | Hands-on session with TrQS         |
+| 03:00 pm – 03:30 pm | Hands-on session with TrQS         |
+| 03:30 pm – 04:00 pm | Panel discussion                   |
 | 04:00 pm – 04:30 pm | High tea                           |
-| 04:30 pm – 05:00 pm | Panel discussion                   |
-| 05:00 pm - 06:00 pm | Hands-on session on video encoding and tiles |
+| 04:30 pm - 05:30 pm | Hands-on session on video encoding and tiles |
 
 ## Speakers <a name="speakers"></a>
 
