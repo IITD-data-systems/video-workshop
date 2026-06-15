@@ -52,7 +52,7 @@ workshop by ~~June 6, 2026~~ **June 8, 2026**.
 |       Time          |              Event                 |
 |:-------------------:|:-----------------------------------|
 | 08:30 am – 09:15 am | Coffee                             |
-| 09:15 am – 09:30 am | Welcoming remarks                  |
+| 09:15 am – 09:30 am | Welcoming remarks by SK Marwah     |
 | 09:30 am – 10:30 am | Talk by Dr. Shikha Gupta           |
 | 10:30 am – 11:30 am | Talk from IIT Delhi                |
 | 11:30 am – 12:30 pm | Talk by Dr. Sibendu Paul           |
@@ -65,7 +65,23 @@ workshop by ~~June 6, 2026~~ **June 8, 2026**.
 
 ## Speakers <a name="speakers"></a>
 
-1. **Dr. Shikha Gupta**
+1. **SK Marwah**
+
+   **Bio**:- Mr. S.K. Marwaha, presently, Adviser with the Ministry of Electronics and Information
+   Technology (MeitY), Government of India, is former Scientist ‘G’ &amp; Group Coordinator for
+   R&amp;D in Convergence, Communications &amp; Broadband Technologies, MeitY. An Electronics and
+   Communication Engineer from the 1989 batch of UPSC Engineering Services, he has over 34
+   years of experience in the promotion of India’s electronics and semiconductor manufacturing
+   ecosystem, technology policy and R&amp;D. He served as the founding Chief Technology Officer
+   (CTO) of the India Semiconductor Mission (ISM). During his tenure in MeitY, he contributed
+   significantly in the formulation and implementation of key national initiatives, including the
+   National Policy on Electronics (NPE 2012 &amp; 2019), the Production Linked Incentive (PLI)
+   Schemes, Scheme for Promotion of Manufacturing Electronic Components and Semiconductors
+   (SPECS), Electronic Components Manufacturing Scheme (ECMS) and the Semicon India
+   Programme, aimed at strengthening domestic electronics manufacturing and semiconductor
+   capabilities.
+
+2. **Dr. Shikha Gupta**
 
    **Title**:- Reimagining Surveillance: The Role of AI and Computer Vision in Public Safety
 
@@ -73,7 +89,7 @@ workshop by ~~June 6, 2026~~ **June 8, 2026**.
 
    **Bio**:- Shikha Gupta is a Senior Research Scientist at Vehant Technologies, where she works on AI-driven video analytics solutions for intelligent surveillance and public safety. She received her Ph.D. from the Indian Institute of Technology Mandi in 2020, specializing in machine learning and computer vision. Prior to joining Vehant, she worked at Samsung Research Institute and TCS Research Lab. Her research has been published in reputed journals and conferences, and she holds a patent in AI and computer vision. She currently leads AI-based video analytics deployments for smart city and highway projects, including the Dwarka Tunnel, MSRDC, Guwahati Safe City, and Pune Safe City projects. She also played a key role in deploying AI-powered crowd management solutions at the Maha Kumbh, supporting large-scale public safety operations.
 
-2. **Dr. Sibendu Paul**
+3. **Dr. Sibendu Paul**
 
    **Title**:- Perception Aware Adapting Sensing for Intelligent Video Analytics Systems.
 
@@ -81,7 +97,7 @@ workshop by ~~June 6, 2026~~ **June 8, 2026**.
 
    **Bio**:- Sibendu Paul is an Applied Scientist at the Amazon Prime Video team. He earned his M.S. and Ph.D. in Electrical and Computer Engineering from Purdue University in 2022, where he was awarded the prestigious Bilsland Dissertation Fellowship. Prior to that, he completed his undergraduate studies at Jadavpur University, India, in 2017, graduating with First Class Honours and receiving the University Gold Medal for securing the highest percentage in his department. His research lies at the intersection of machine learning and systems, with interests spanning multimodal video understanding, large-scale video analytics, AR/VR systems, 360-degree video streaming, and edge computing.
 
-2. **Prof. Arani Bhattacharya**
+4. **Prof. Arani Bhattacharya**
 
    **Title**:- Tiles: Exploiting a Hidden Codec Feature for Better Video Streaming.
 
