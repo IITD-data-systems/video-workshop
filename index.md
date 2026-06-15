@@ -1,6 +1,6 @@
 # Workshop on Video Analytics Systems
 
-[Welcome](#about) | [Registration](#registration)  | [Logistics](#logistics) | [Schedule](#schedule) | [Speakers](#speakers)
+[Welcome](#about) | [Registration](#registration)  | [Logistics](#logistics) | [Schedule](#schedule) | [Speakers](#speakers) | [Photos](#photos)
 
 
 
@@ -121,3 +121,15 @@ workshop by ~~June 6, 2026~~ **June 8, 2026**.
    University in 2019. He regularly serves on the program committees of multiple conferences like ACM IMC, 
    ACM SenSys, ACM MMSys and IEEE ICDCS, and is currently serving as the Associate Editor of IEEE 
    Transactions on Mobile Computing.
+
+## Photos <a name="photos"></a>
+![photo 1](./static/images/Marwah.jpg)
+![photo 2](./static/images/drShikha.jpg)
+![photo 3](./static/images/profAbhilash.jpg)
+![photo 4](./static/images/drSibendu.jpg)
+![photo 5](./static/images/profArani.jpg)
+![photo 6](./static/images/panel.jpg)
+![photo 7](./static/images/gift_drShikha.jpg)
+![photo 8](./static/images/gift_profArani.jpg)
+![photo 9](./static/images/group1.jpg)
+![photo 10](./static/images/group2.jpg)
